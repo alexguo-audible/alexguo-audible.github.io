@@ -1,6 +1,6 @@
 # Resource hints
 
-Welcome! While my example pages focus on **preconnect** and **preload**, there is also **prefetch**, **prerender**, and **dns-prefetch**. Be sure to look them up as well.
+Welcome! While my example pages focus on **preconnect**, **prefetch** and **preload**, there is also **prerender** and **dns-prefetch**. Be sure to look them up as well.
 
 ## Implementation
 You can use resource hints with the ```<link>``` tag. For example:
@@ -11,8 +11,6 @@ You can use resource hints with the ```<link>``` tag. For example:
 ## Webpagetest runs
 * [With preconnect](https://www.webpagetest.org/result/170605_9R_ZCB/2/details/#waterfall_view_step1)
 * [Without preconect](https://www.webpagetest.org/result/170605_93_ZCH/3/details/#waterfall_view_step1)
-* [With preload]()
-* [Without preload]()
 
 ## Browser support
 
